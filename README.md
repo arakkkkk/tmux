@@ -1,6 +1,7 @@
 # tmux
 ## Instration
 ```sh
+sudo apt install tmux
 git clone https://github.com/arakkkkk/tmux.git ~/.config/tmux
 mkdir plugins
 git clone https://github.com/tmux-plugins/tmux-continuum ~/.config/tmux/plugins/tmux-continuum

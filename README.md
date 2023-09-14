@@ -1,6 +1,10 @@
 # tmux
 ## Instration
 ```sh
+git pull --recurse-submodules
+```
+
+```sh
 sudo apt install tmux
 git clone https://github.com/arakkkkk/tmux.git ~/.config/tmux
 mkdir plugins

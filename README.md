@@ -13,4 +13,5 @@ git clone https://github.com/tmux-plugins/tmux-resurrect ~/.config/tmux/plugins/
 git clone https://github.com/tmux-plugins/tmux-sensible ~/.config/tmux/plugins/tmux-sensible
 git clone https://github.com/tmux-plugins/tmux-yank ~/.config/tmux/plugins/tmux-yank
 git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+git clone https://github.com/arakkkkk/tmux-window-controller ~/.config/tmux/plugins/tpm
 ```
